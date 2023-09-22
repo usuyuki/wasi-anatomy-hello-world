@@ -11,6 +11,15 @@ yayでインストール
 wasmer 4.2.0
 ```
 
+# wabt
+
+yayでインストール
+
+```
+❯ wat2wasm --version
+1.0.31
+```
+
 # zig
 
 rtxで用意
